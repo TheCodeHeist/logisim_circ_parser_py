@@ -1,0 +1,11 @@
+;define comp0 NOR 2 "NOR Gate"
+;define comp1 PIN IN 1 "Pin"
+;define comp2 PIN IN 1 "Pin"
+;define comp3 PIN OUT 1 "Pin"
+;define comp4 NOR 2 "NOR Gate"
+
+;attach comp0 comp3
+;attach comp0 comp4
+;attach comp1 comp0
+;attach comp2 comp4
+;attach comp4 comp0

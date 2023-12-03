@@ -1,0 +1,272 @@
+{
+  "components": [
+    {
+      "lib": "1",
+      "loc": [
+        120,
+        120
+      ],
+      "name": "NOR Gate",
+      "attributes": {},
+      "id": "comp0"
+    },
+    {
+      "lib": "0",
+      "loc": [
+        40,
+        120
+      ],
+      "name": "Pin",
+      "attributes": {
+        "tristate": false
+      },
+      "id": "comp1"
+    },
+    {
+      "lib": "0",
+      "loc": [
+        40,
+        30
+      ],
+      "name": "Pin",
+      "attributes": {
+        "tristate": false
+      },
+      "id": "comp2"
+    },
+    {
+      "lib": "0",
+      "loc": [
+        160,
+        70
+      ],
+      "name": "Pin",
+      "attributes": {
+        "facing": "west",
+        "output": true
+      },
+      "id": "comp3"
+    },
+    {
+      "lib": "1",
+      "loc": [
+        120,
+        30
+      ],
+      "name": "NOR Gate",
+      "attributes": {},
+      "id": "comp4"
+    }
+  ],
+  "wires": [
+    {
+      "from": [
+        50,
+        130
+      ],
+      "to": [
+        80,
+        130
+      ],
+      "attributes": {}
+    },
+    {
+      "from": [
+        50,
+        20
+      ],
+      "to": [
+        80,
+        20
+      ],
+      "attributes": {}
+    },
+    {
+      "from": [
+        70,
+        90
+      ],
+      "to": [
+        130,
+        90
+      ],
+      "attributes": {}
+    },
+    {
+      "from": [
+        60,
+        70
+      ],
+      "to": [
+        60,
+        110
+      ],
+      "attributes": {}
+    },
+    {
+      "from": [
+        130,
+        30
+      ],
+      "to": [
+        130,
+        70
+      ],
+      "attributes": {}
+    },
+    {
+      "from": [
+        50,
+        20
+      ],
+      "to": [
+        50,
+        30
+      ],
+      "attributes": {}
+    },
+    {
+      "from": [
+        50,
+        120
+      ],
+      "to": [
+        50,
+        130
+      ],
+      "attributes": {}
+    },
+    {
+      "from": [
+        60,
+        110
+      ],
+      "to": [
+        80,
+        110
+      ],
+      "attributes": {}
+    },
+    {
+      "from": [
+        130,
+        120
+      ],
+      "to": [
+        150,
+        120
+      ],
+      "attributes": {}
+    },
+    {
+      "from": [
+        150,
+        70
+      ],
+      "to": [
+        150,
+        120
+      ],
+      "attributes": {}
+    },
+    {
+      "from": [
+        70,
+        40
+      ],
+      "to": [
+        70,
+        90
+      ],
+      "attributes": {}
+    },
+    {
+      "from": [
+        150,
+        70
+      ],
+      "to": [
+        160,
+        70
+      ],
+      "attributes": {}
+    },
+    {
+      "from": [
+        40,
+        120
+      ],
+      "to": [
+        50,
+        120
+      ],
+      "attributes": {}
+    },
+    {
+      "from": [
+        40,
+        30
+      ],
+      "to": [
+        50,
+        30
+      ],
+      "attributes": {}
+    },
+    {
+      "from": [
+        120,
+        120
+      ],
+      "to": [
+        130,
+        120
+      ],
+      "attributes": {}
+    },
+    {
+      "from": [
+        120,
+        30
+      ],
+      "to": [
+        130,
+        30
+      ],
+      "attributes": {}
+    },
+    {
+      "from": [
+        70,
+        40
+      ],
+      "to": [
+        80,
+        40
+      ],
+      "attributes": {}
+    },
+    {
+      "from": [
+        60,
+        70
+      ],
+      "to": [
+        130,
+        70
+      ],
+      "attributes": {}
+    },
+    {
+      "from": [
+        130,
+        90
+      ],
+      "to": [
+        130,
+        120
+      ],
+      "attributes": {}
+    }
+  ]
+}
